@@ -1495,12 +1495,61 @@ page heading
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding-top: 200px;
+  padding-top: 130px;
   height: 100vh;
   padding-bottom: 130px;
   text-align: center;
   background-color: #2a2a2a;
 }
+
+.page-heading02 {
+  background-image: url(../images/book022.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 130px;
+  height: 100vh;
+  padding-bottom: 130px;
+  text-align: center;
+  background-color: #2a2a2a;
+}
+
+.page-heading03 {
+  background-image: url(../images/book033.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 130px;
+  height: 100vh;
+  padding-bottom: 130px;
+  text-align: center;
+  background-color: #2a2a2a;
+}
+
+.page-heading04 {
+  background-image: url(../images/book044.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 130px;
+  height: 100vh;
+  padding-bottom: 130px;
+  text-align: center;
+  background-color: #2a2a2a;
+}
+
+.page-heading05 {
+  background-image: url(../images/book055.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 130px;
+  height: 100vh;
+  padding-bottom: 130px;
+  text-align: center;
+  background-color: #2a2a2a;
+}
+
 
 .page-heading h2 {
   color: #fff;
