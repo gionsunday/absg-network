@@ -2573,6 +2573,7 @@ body {
   .border-button a {
     font-size: 14px;
     padding: 10px 20px;
+    width: 200px;
   }
   .header-area .main-nav .logo {
     margin-right: 5px;
