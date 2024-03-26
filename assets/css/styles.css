@@ -1479,12 +1479,24 @@ page heading
 --------------------------------------------- 
 */
 
-.page-heading {
+/* .page-heading {
   background-image: url(../images/heading-bg.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   padding-top: 200px;
+  padding-bottom: 130px;
+  text-align: center;
+  background-color: #2a2a2a;
+} */
+
+.page-heading01 {
+  background-image: url(../images/book011.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 200px;
+  height: 100vh;
   padding-bottom: 130px;
   text-align: center;
   background-color: #2a2a2a;
