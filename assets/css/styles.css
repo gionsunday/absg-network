@@ -575,7 +575,7 @@ Header Style
   .header-area .main-nav .border-button {
     position: absolute;
     top: 15px;
-    right: 70px;
+    right: 120px;
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
@@ -1479,7 +1479,7 @@ page heading
 --------------------------------------------- 
 */
 
-/* .page-heading {
+ .page-heading {
   background-image: url(../images/heading-bg.jpg);
   background-repeat: no-repeat;
   background-position: center center;
@@ -1488,7 +1488,7 @@ page heading
   padding-bottom: 130px;
   text-align: center;
   background-color: #2a2a2a;
-} */
+} 
 
 .page-heading01 {
   background-image: url(../images/book011.jpeg);
@@ -1713,15 +1713,16 @@ Contests Page
   top: 30px;
   left: 30px;
   right: 30px;
-  background-color: #fff;
+  background-color: #ffffff2f;
   border-radius: 10px;
-  padding: 15px 25px;
+  padding: 5px 15px;
 }
 
 .photos-videos .item .thumb .top-content h4 {
   display: inline;
   font-size: 20px;
   font-weight: 700;
+  color: #f5f5f5;
 }
 
 .photos-videos .item .thumb .top-content h6 {
@@ -2634,7 +2635,7 @@ body {
   .border-button a {
     font-size: 10px;
     padding: 10px 20px;
-    width: 200px;
+  
   }
   .header-area .main-nav .logo {
     margin-right: 5px;
