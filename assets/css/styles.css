@@ -219,7 +219,7 @@ section {
 }
 
 .section-heading p {
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 
@@ -935,7 +935,7 @@ Banner Style
 */
 
 .main-banner {
-  background-image: url(../images/banner-bg.jpg);
+  background-image: url(../images/banner.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2742,10 +2742,30 @@ border-radius: 8px;
 border: 1px solid rgba(0, 255, 255, 0.37) ;
 justify-content: center;
 }
+
+.blog{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  
+  padding: 10px;
+  border-radius: 8px;
+  justify-content: center;
+  }
+
+  .blog .right-item{
+    text-align: center;
+    padding: 2px 10px 10px 10px;
+    margin-top: 2.2rem;
+  
+  }
+
 .blogs .right-item{
   text-align: justify;
   padding: 2px 10px 10px 10px;
   margin-bottom: 10px;
+  
 
 }
 .blogs .left-item img{
@@ -2755,6 +2775,12 @@ justify-content: center;
 
 @media screen and (max-width:996px) {
   
+  .blog .right-item{
+    text-align: center;
+    padding: 2px 10px 10px 10px;
+    margin-top: 0.1rem;
+  
+  }
 .main-banner p {
   color: #fff;
   padding: 30px 0px;
