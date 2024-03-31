@@ -1482,15 +1482,38 @@ page heading
 */
 
  .page-heading {
-  background-image: url(../images/heading-bg.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
   padding-top: 200px;
   padding-bottom: 130px;
   text-align: center;
   background-color: #2a2a2a;
 } 
+
+.page-songs{
+  background-image: url(../images/songs-ministration.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 130px;
+}
+.page-tv{
+  background-image: url(../images/absg-tv.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 130px;
+}
+.page-digging{
+  background-image: url(../images/digging-deep02.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 130px;
+}
+
+
 
 .page-heading01 {
   background-image: url(../images/book011.jpeg);
